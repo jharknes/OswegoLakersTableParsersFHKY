@@ -1,0 +1,305 @@
+<table border="0" cellpadding="1" cellspacing="1" class="sidearm-table" style="width:100%;" width="407">
+<tbody>
+<tr>
+<td style="width: 108px;"><strong>2001</strong></td>
+<td style="width: 74px;"></td>
+<td style="width: 317px;"><strong>7-10-0, (2-3-0 SUNYAC)</strong></td>
+<td style="width: 85px;"></td>
+<td style="width: 395px;"><strong>Dayna Pilgrim</strong></td>
+</tr>
+<tr>
+<td style="width: 108px;">9/5</td>
+<td style="width: 74px;"></td>
+<td style="width: 317px;">at Ithaca</td>
+<td style="width: 85px;"></td>
+<td style="width: 395px;">L, 2-0</td>
+</tr>
+<tr>
+<td style="width: 108px;">9/8</td>
+<td style="width: 74px;"></td>
+<td style="width: 317px;">ST. LAWRENCE</td>
+<td style="width: 85px;"></td>
+<td style="width: 395px;">L, 4-3</td>
+</tr>
+<tr>
+<td style="width: 108px;">9/12</td>
+<td style="width: 74px;"></td>
+<td style="width: 317px;">HAMILTON</td>
+<td style="width: 85px;"></td>
+<td style="width: 395px;">W, 2-1</td>
+</tr>
+<tr>
+<td style="width: 108px;">9/20</td>
+<td style="width: 74px;"></td>
+<td style="width: 317px;">at Cortland*</td>
+<td style="width: 85px;"></td>
+<td style="width: 395px;">L, 4-0</td>
+</tr>
+<tr>
+<td style="width: 108px;">9/22</td>
+<td style="width: 74px;"></td>
+<td style="width: 317px;">NAZARETH</td>
+<td style="width: 85px;"></td>
+<td style="width: 395px;">W, 3-2</td>
+</tr>
+<tr>
+<td style="width: 108px;">9/27</td>
+<td style="width: 74px;"></td>
+<td style="width: 317px;">at Wells</td>
+<td style="width: 85px;"></td>
+<td style="width: 395px;">W</td>
+</tr>
+<tr>
+<td style="width: 108px;">9/29</td>
+<td style="width: 74px;"></td>
+<td style="width: 317px;">at New Paltz*</td>
+<td style="width: 85px;"></td>
+<td style="width: 395px;">W, 2-0</td>
+</tr>
+<tr>
+<td style="width: 108px;">9/30</td>
+<td style="width: 74px;"></td>
+<td style="width: 317px;">at Manhattanville</td>
+<td style="width: 85px;"></td>
+<td style="width: 395px;">W, 5-1</td>
+</tr>
+<tr>
+<td style="width: 108px;">10/3</td>
+<td style="width: 74px;"></td>
+<td style="width: 317px;">HARTWICK</td>
+<td style="width: 85px;"></td>
+<td style="width: 395px;">L, 4-1</td>
+</tr>
+<tr>
+<td style="width: 108px;">10/5</td>
+<td style="width: 74px;"></td>
+<td style="width: 317px;">UTICA</td>
+<td style="width: 85px;"></td>
+<td style="width: 395px;">W, 2-1 (OT)</td>
+</tr>
+<tr>
+<td style="width: 108px;">10/9</td>
+<td style="width: 74px;"></td>
+<td style="width: 317px;">GENESEO*</td>
+<td style="width: 85px;"></td>
+<td style="width: 395px;">L, 4-3</td>
+</tr>
+<tr>
+<td style="width: 108px;">10/11</td>
+<td style="width: 74px;"></td>
+<td style="width: 317px;">at University of Rochester</td>
+<td style="width: 85px;"></td>
+<td style="width: 395px;">L, 2-1</td>
+</tr>
+<tr>
+<td style="width: 108px;">10/13</td>
+<td style="width: 74px;"></td>
+<td style="width: 317px;">UNION</td>
+<td style="width: 85px;"></td>
+<td style="width: 395px;">L, 2-1</td>
+</tr>
+<tr>
+<td style="width: 108px;">10/16</td>
+<td style="width: 74px;"></td>
+<td style="width: 317px;">at Brockport*</td>
+<td style="width: 85px;"></td>
+<td style="width: 395px;">L, 1-0</td>
+</tr>
+<tr>
+<td style="width: 108px;">10/18</td>
+<td style="width: 74px;"></td>
+<td style="width: 317px;">ELMIRA</td>
+<td style="width: 85px;"></td>
+<td style="width: 395px;">L, 1-0</td>
+</tr>
+<tr>
+<td style="width: 108px;">10/20</td>
+<td style="width: 74px;"></td>
+<td style="width: 317px;">ONEONTA*</td>
+<td style="width: 85px;"></td>
+<td style="width: 395px;">W, 1-0</td>
+</tr>
+<tr>
+<td style="width: 108px;">10/24</td>
+<td style="width: 74px;"></td>
+<td style="width: 317px;">Ithaca%</td>
+<td style="width: 85px;"></td>
+<td style="width: 395px;">L, 3-1</td>
+</tr>
+<tr>
+<td style="width: 108px;"></td>
+<td style="width: 74px;"></td>
+<td style="width: 317px;"></td>
+<td style="width: 85px;"></td>
+<td style="width: 395px;"></td>
+</tr>
+<tr>
+<td style="width: 108px;"></td>
+<td style="width: 74px;"></td>
+<td style="width: 317px;">*SUNYAC game</td>
+<td style="width: 85px;"></td>
+<td style="width: 395px;"></td>
+</tr>
+<tr>
+<td style="width: 108px;"></td>
+<td style="width: 74px;"></td>
+<td style="width: 317px;">%NYSWCAA Tournament</td>
+<td style="width: 85px;"></td>
+<td style="width: 395px;"></td>
+</tr>
+<tr>
+<td style="width: 108px;"></td>
+<td style="width: 74px;"></td>
+<td style="width: 317px;"></td>
+<td style="width: 85px;"></td>
+<td style="width: 395px;"></td>
+</tr>
+<tr>
+<td style="width: 108px;"><strong>2000</strong></td>
+<td style="width: 74px;"></td>
+<td style="width: 317px;"><strong>7-10-0, (3-2-0 SUNYAC)</strong></td>
+<td style="width: 85px;"></td>
+<td style="width: 395px;"><strong>Dayna Pilgrim </strong></td>
+</tr>
+<tr>
+<td style="width: 108px;">9/2</td>
+<td style="width: 74px;"></td>
+<td style="width: 317px;">at Elizabethtown</td>
+<td style="width: 85px;"></td>
+<td style="width: 395px;">L, 1-0</td>
+</tr>
+<tr>
+<td style="width: 108px;">9/6</td>
+<td style="width: 74px;"></td>
+<td style="width: 317px;">ITHACA</td>
+<td style="width: 85px;"></td>
+<td style="width: 395px;">L, 4-0</td>
+</tr>
+<tr>
+<td style="width: 108px;">9/9</td>
+<td style="width: 74px;"></td>
+<td style="width: 317px;">at St.Lawrence</td>
+<td style="width: 85px;"></td>
+<td style="width: 395px;">L, 7-1</td>
+</tr>
+<tr>
+<td style="width: 108px;">9/13</td>
+<td style="width: 74px;"></td>
+<td style="width: 317px;">at Hamilton</td>
+<td style="width: 85px;"></td>
+<td style="width: 395px;">W, 1-0</td>
+</tr>
+<tr>
+<td style="width: 108px;">9/16</td>
+<td style="width: 74px;"></td>
+<td style="width: 317px;">RPI</td>
+<td style="width: 85px;"></td>
+<td style="width: 395px;">L, 2-1</td>
+</tr>
+<tr>
+<td style="width: 108px;">9/21</td>
+<td style="width: 74px;"></td>
+<td style="width: 317px;">CORTLAND*</td>
+<td style="width: 85px;"></td>
+<td style="width: 395px;">L, 4-1</td>
+</tr>
+<tr>
+<td style="width: 108px;">9/23</td>
+<td style="width: 74px;"></td>
+<td style="width: 317px;">at Nazareth</td>
+<td style="width: 85px;"></td>
+<td style="width: 395px;">W, 2-1</td>
+</tr>
+<tr>
+<td style="width: 108px;">9/26</td>
+<td style="width: 74px;"></td>
+<td style="width: 317px;">WELLS</td>
+<td style="width: 85px;"></td>
+<td style="width: 395px;">W, 6-0</td>
+</tr>
+<tr>
+<td style="width: 108px;">9/29</td>
+<td style="width: 74px;"></td>
+<td style="width: 317px;">NEW PALTZ*</td>
+<td style="width: 85px;"></td>
+<td style="width: 395px;">W, 2-0</td>
+</tr>
+<tr>
+<td style="width: 108px;">10/4</td>
+<td style="width: 74px;"></td>
+<td style="width: 317px;">at Hartwick</td>
+<td style="width: 85px;"></td>
+<td style="width: 395px;">L, 5-0</td>
+</tr>
+<tr>
+<td style="width: 108px;">10/7</td>
+<td style="width: 74px;"></td>
+<td style="width: 317px;">at Elmira</td>
+<td style="width: 85px;"></td>
+<td style="width: 395px;">L, 2-1</td>
+</tr>
+<tr>
+<td style="width: 108px;">10/10</td>
+<td style="width: 74px;"></td>
+<td style="width: 317px;">at Geneseo*</td>
+<td style="width: 85px;"></td>
+<td style="width: 395px;">L, 2-1</td>
+</tr>
+<tr>
+<td style="width: 108px;">10/12</td>
+<td style="width: 74px;"></td>
+<td style="width: 317px;">UNIVERSITY OF ROCHESTER</td>
+<td style="width: 85px;"></td>
+<td style="width: 395px;">W, 2-1</td>
+</tr>
+<tr>
+<td style="width: 108px;">10/14</td>
+<td style="width: 74px;"></td>
+<td style="width: 317px;">at Union</td>
+<td style="width: 85px;"></td>
+<td style="width: 395px;">L, 3-2</td>
+</tr>
+<tr>
+<td style="width: 108px;">10/17</td>
+<td style="width: 74px;"></td>
+<td style="width: 317px;">BROCKPORT*</td>
+<td style="width: 85px;"></td>
+<td style="width: 395px;">W, 4-1</td>
+</tr>
+<tr>
+<td style="width: 108px;">10/21</td>
+<td style="width: 74px;"></td>
+<td style="width: 317px;">at Oneonta*</td>
+<td style="width: 85px;"></td>
+<td style="width: 395px;">W, 1-0 (OT, Penalty strokes 3-2)</td>
+</tr>
+<tr>
+<td style="width: 108px;">10/25</td>
+<td style="width: 74px;"></td>
+<td style="width: 317px;">at Skidmore%</td>
+<td style="width: 85px;"></td>
+<td style="width: 395px;">L, 7-2</td>
+</tr>
+<tr>
+<td style="width: 108px;"></td>
+<td style="width: 74px;"></td>
+<td style="width: 317px;"></td>
+<td style="width: 85px;"></td>
+<td style="width: 395px;"></td>
+</tr>
+<tr>
+<td style="width: 108px;"></td>
+<td style="width: 74px;"></td>
+<td style="width: 317px;">*SUNYAC game</td>
+<td style="width: 85px;"></td>
+<td style="width: 395px;"></td>
+</tr>
+<tr>
+<td style="width: 108px;"></td>
+<td style="width: 74px;"></td>
+<td style="width: 317px;">%NYSWCAA Tournament</td>
+<td style="width: 85px;"></td>
+<td style="width: 395px;"></td>
+</tr>
+</tbody>
+</table>
